@@ -1,6 +1,6 @@
 {
   "name": "passport-thecity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The City authentication strategy for Passport.",
   "keywords": ["passport", "thecity", "auth", "authn", "authentication", "identity"],
   "repository": {
